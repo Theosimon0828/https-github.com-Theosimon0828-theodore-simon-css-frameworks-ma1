@@ -1,0 +1,42 @@
+nav {
+  background-color: #f4f3ee;
+}
+
+body {
+  height: 100%;
+  text-align: center;
+  margin: right auto;
+  margin: left auto;
+  background-color: #f4f3ee;
+}
+
+.card {
+  height: 250px;
+  width: 250px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  background-color: #f4f3ee;
+}
+
+.cardp {
+  background-color: #c32c72;
+}
+
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  font-size: 2em;
+}
+
+.wrapper {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+/*# sourceMappingURL=style.css.map */
